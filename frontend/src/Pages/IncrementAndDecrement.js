@@ -12,7 +12,7 @@ function IncrementAndDecrement() {
             <h1 className="counter-display">{count}</h1>
             <div className="button-group">
                 <Button variant="success" onClick={handleIncrement}>Increment</Button>
-                <Button variant="danger" onClick={handleDecrement}>Decrement</Button>
+                <Button variant="sucess" onClick={handleDecrement}>Decrement</Button>
             </div>
         </div>
     );
