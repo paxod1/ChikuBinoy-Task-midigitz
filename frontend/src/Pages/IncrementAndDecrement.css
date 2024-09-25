@@ -7,6 +7,7 @@
   .counter-display {
     font-size: 4rem;
     margin-bottom: 20px;
+    color: rgba(0, 0, 0, 0.616);
   }
   
   .button-group {
